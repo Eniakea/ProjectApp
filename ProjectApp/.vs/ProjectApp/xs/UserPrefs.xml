@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{2A480B14-663B-4E80-8DBB-1173A660B95F}|https">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ProjectApp.Web FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ProjectApp.DAL FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ProjectApp.BLL FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.ProjectApp.Web PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjectApp" expanded="True">
+            <Node name="ProjectApp.Web" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
