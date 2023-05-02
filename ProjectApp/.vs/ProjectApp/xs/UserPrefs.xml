@@ -2,7 +2,9 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.ProjectApp.DAL FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.ProjectApp.BLL FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.ProjectApp.Web PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -11,6 +13,8 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ProjectApp" expanded="True">
+            <Node name="ProjectApp.BLL" expanded="True" />
+            <Node name="ProjectApp.DAL" expanded="True" />
             <Node name="ProjectApp.Web" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Properties" expanded="True" />
